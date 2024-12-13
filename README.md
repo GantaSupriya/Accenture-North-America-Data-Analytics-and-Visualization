@@ -5,8 +5,8 @@
 # Task - 1 
 
 # Project Understanding: 
-
 ## A data analyst sits between the business and the data. 
+
 *One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 
 *She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
@@ -33,7 +33,7 @@
 # Task - 2
 *Often you won’t need all these datasets to find what you’re looking for.
 
-*So, the first step is to use this [Data Model] (https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Data%20model.pdf)  to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+*So, the first step is to use this [Data Model](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/a553220362f4f00be893804cb873ca0c62859317/Data%20model.pdf)  to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 
 *After Analysis we got data sets needed to complete analysis:
 
@@ -56,7 +56,9 @@
 *End result will be three cleaned data set :
 
 *[Reaction Types](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/ReactionTypes%20.csv)
+
 *[Reactions](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Reactions%20.csv)
+
 *[Content](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Content%20.csv)
 
 ## Data Modelling:
