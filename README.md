@@ -4,7 +4,7 @@
 
 # Task - 1 
 
-## Project Understanding: 
+# Project Understanding: 
 ## A data analyst sits between the business and the data. 
 
 *One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
@@ -16,55 +16,78 @@
 *About Client : [Social Buzz](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/d0823d843dda55135b4c1c30571fff2cf50adeee/Data_Analytics%20Client%20Brief.pdf)
 
 ## Task for Accenture :
-Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
-Accenture Project Team :
+*Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+
+*Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content.
+
+## Accenture Project Team :
+
+![Project Team](https://github.com/user-attachments/assets/b7492a36-3fb6-4d40-98f4-99add37c9ab0)
 
 
-Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+## Task for Data Analyst :
+*Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
-In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+*In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
-Task - 2
-Often you won’t need all these datasets to find what you’re looking for.
-So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
-After Analysis we got data sets needed to complete analysis:
-Reaction Score(score is used to quantified the popularity)
-Content ID
-Reaction Types
-Content type
-Category
-Data Cleaning:
-Clean the data by:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
-Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
-End result will be three cleaned data set :
+# Task - 2
+*Often you won’t need all these datasets to find what you’re looking for.
 
-Reaction Types
-Reactions
-Content
-Data Modelling:
-Create a final data set by merging 3 tables
+*So, the first step is to use this [Data Model] (https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Data%20model.pdf)  to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 
-End result will be one spreadsheet
+*After Analysis we got data sets needed to complete analysis:
 
-A cleaned dataset
-Top 5 categories
-Cleaned Data set:
-So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
+    *Reaction Score(score is used to quantified the popularity)
+  
+    *Content ID
+  
+    *Reaction Types
+  
+    *Content type
+  
+    *Category
+  
+## Data Cleaning:
 
-Task - 3
-Data Visualization and Storytelling:
-Make the Powerpoint presentation as per the given template
+## Clean the data by:
 
-Charts Involved :
+*removing rows that have values which are missing,
 
-Pie Chart
-Bar Chart
-Powerpoint Presentation : PPT
-Task - 4
-Present to the Client:
-Present your powerpoint presentation to the client and deliver the insights of your analysis
+*changing the data type of some values within a column, and removing columns which are not relevant to this task.
+
+*Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+
+*End result will be three cleaned data set :
+
+*[Reaction Types](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/ReactionTypes%20.csv)
+*[Reactions](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Reactions%20.csv)
+*[Content](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Content%20.csv)
+
+## Data Modelling:
+
+### Create a final data set by merging 3 tables End result will be one spreadsheet
+
+    *A cleaned dataset
+    *Top 5 categories
+## Cleaned Data set:
+
+So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset]( https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Cleaned%20Dataset%20(1).xlsx)
+
+# Task - 3
+
+
+## Data Visualization and Storytelling:
+
+### Make the Powerpoint presentation as per the given template
+
+  ### Charts Involved :
+
+     *Pie Chart
+     *Bar Chart
+     
+*Powerpoint Presentation : [PPT](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/PowerPoint%20presentation%20.pptx)
+
+
+# Task - 4
+## Present to the Client:
+## Present your powerpoint presentation to the client and deliver the insights of your analysis.
