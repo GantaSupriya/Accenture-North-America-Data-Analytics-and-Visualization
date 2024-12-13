@@ -5,8 +5,8 @@
 # Task - 1 
 
 # Project Understanding: 
-## A data analyst sits between the business and the data. 
 
+## A data analyst sits between the business and the data. 
 *One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 
 *She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
@@ -37,15 +37,11 @@
 
 *After Analysis we got data sets needed to complete analysis:
 
-    *Reaction Score(score is used to quantified the popularity)
-  
-    *Content ID
-  
-    *Reaction Types
-  
-    *Content type
-  
-    *Category
+    Reaction Score(score is used to quantified the popularity)
+    Content ID
+    Reaction Types
+    Content type
+    Category
   
 ## Data Cleaning:
 
@@ -67,8 +63,8 @@
 
 ### Create a final data set by merging 3 tables End result will be one spreadsheet
 
-    *A cleaned dataset
-    *Top 5 categories
+    A cleaned dataset
+    Top 5 categories
 ## Cleaned Data set:
 
 So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset]( https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/Cleaned%20Dataset%20(1).xlsx)
@@ -82,8 +78,8 @@ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset
 
   ### Charts Involved :
 
-     *Pie Chart
-     *Bar Chart
+     Pie Chart
+     Bar Chart
      
 *Powerpoint Presentation : [PPT](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/c096ba676dab27ced8996b5ce970062d849b4ad4/PowerPoint%20presentation%20.pptx)
 
