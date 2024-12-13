@@ -4,8 +4,8 @@
 
 # Task - 1 
 
-## Project Understanding: (H2)
-## A data analyst sits between the business and the data. (H2)
+## Project Understanding: 
+## A data analyst sits between the business and the data. 
 
 *One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 
@@ -15,7 +15,7 @@
 
 *About Client : [Social Buzz](https://github.com/GantaSupriya/Accenture-North-America-Data-Analytics-and-Visualization/blob/d0823d843dda55135b4c1c30571fff2cf50adeee/Data_Analytics%20Client%20Brief.pdf)
 
-## Task for Accenture :(H2)
+## Task for Accenture :
 Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 Accenture Project Team :
